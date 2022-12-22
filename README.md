@@ -1,6 +1,7 @@
 <h3 align="center">A passionate Ethical Hacker from Germany</h3>
 
 - ⚡ Fun fact **I know U**
+- 👨‍💻 Manu 23 German/English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
