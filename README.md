@@ -7,7 +7,7 @@
 <a href="https://instagram.com/asllxpxscu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asllxpxscu" height="30" width="40" /></a>
 </p>
 
-<a href="https://instagram.com/asllxpxscu" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="asllxpxscu" height="30" width="40" /></a>
+<a href="https://instagram.com/asllxpxscu" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ASLLXPXSCU.png" alt="TryHackMe">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
