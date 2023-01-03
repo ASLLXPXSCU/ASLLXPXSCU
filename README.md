@@ -1,7 +1,7 @@
 **`A passionate Ethical Hacker from Germany`**
 
 - ⚡ Fun fact **I know U**
-- 👨‍💻 Manu 23 German/English
+- 👨‍💻 mihu 23 German/English
 
 <h3 align="left">Connect with me:</h3>
 <h2 align="left">Inactive</h2>
